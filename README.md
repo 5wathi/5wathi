@@ -1,7 +1,7 @@
 - 🦸 Hi, I’m Swathi 
 - 👀 I’m interested in Startup Partnership, Developer Relations and Product Marketing.
 - 😎 I’m currently learning Product Management.
-- 💞️ I’m looking to collaborate on startup & developer communities.
+- ⛑️ I’m looking to collaborate on startup & developer communities.
 - 📫 How to reach me through hogwarts letter.
 
 <!---
