@@ -1,8 +1,5 @@
 - 🦸 Hi, I’m Swathi 
-- 👀 interested in Startup Partnership, Developer Relations and Product Marketing.
-- 😎 learning Product Management.
-- ⛑️ Would love to collaborate on startup & developer communities.
-- 📫 reach me through hogwarts letter.
+- 😎 Part of @womeninai @theproductfolks 
 
 <!---
 5wathi/5wathi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
