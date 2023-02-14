@@ -1,4 +1,4 @@
-- 😎 @womeninai @theproductfolks @googledevs
+😎 @womeninai @theproductfolks @googledevs
 
 
 <!---
